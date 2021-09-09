@@ -8,6 +8,9 @@ using System.Windows.Forms;
 
 namespace SpaceInvaders
 {
+    /// <summary>
+    /// This class represents the entire game, it implements the singleton pattern
+    /// </summary>
     class Game
     {
 
